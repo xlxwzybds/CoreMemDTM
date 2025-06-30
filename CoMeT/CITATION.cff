@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+preferred-citation:
+  type: article
+  authors:
+  - family-names: Siddhu
+    given-names: Lokesh
+  - family-names: Kedia
+    given-names: Rajesh
+  - family-names: Pandey
+    given-names: Shailja
+  - family-names: Rapp
+    given-names: Martin
+  - family-names: Pathania
+    given-names: Anuj
+  - family-names: Henkel
+    given-names: "Jörg"
+  - family-names: Panda
+    given-names: "Preeti Ranjan"
+  url: "http://arxiv.org/abs/2109.12405"
+  journal: arXiv
+  month: 9
+  start: 1 # First page number
+  end: 23 # Last page number
+  title: "CoMeT: An Integrated Interval Thermal Simulation Toolchain for 2D, 2.5D, and 3D Processor-Memory Systems"
+  year: 2021
