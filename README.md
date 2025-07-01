@@ -516,7 +516,7 @@ def example():
 
 
 
-# 4. 3D-TTP
+# 4. CoreMemDTM
 
 ## 4.1 安装步骤
 
